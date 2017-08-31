@@ -1,5 +1,7 @@
 # FIT3140 Lab 06 - Serverless
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dylanpinn/FIT3140-Lab06.svg)](https://greenkeeper.io/)
+
 ## Tasks
 
 - Create a folder called “myfirstfunc”
